@@ -1,0 +1,6 @@
+2025-08-29 01:38:40,350 [INFO] Read output/Linkedin.csv with utf-8 encoding
+2025-08-29 01:38:40,350 [INFO] Sorted and saved output/Linkedin.csv
+2025-08-29 01:38:42,853 [INFO] 📊 Google Sheets updated
+2025-08-29 01:38:47,357 [INFO] Email sent to hamasjan5544@gmail.com with 4 attachments
+2025-08-29 01:38:47,357 [INFO] 📤 Debugging screenshots and spider.logs email sent
+2025-08-29 01:38:47,357 [INFO] 🛑 Scraper finished, sleep mode re-enabled

@@ -1,0 +1,5 @@
+.venv
+.env
+utils/gs_credentials.json 
+"utils/gs_credentials.json" 
+*.json
