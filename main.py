@@ -5,7 +5,7 @@ from config import config_input
 from utils.logger_setup import setup_logger
 
 if __name__ == "__main__":
-    logger = setup_logger()  # ← first thing: set up logging
+    logger = setup_logger()  # Initialize logger
 
     try:
         logger.info("🚀 Scraper started")
